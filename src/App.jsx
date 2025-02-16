@@ -4,6 +4,8 @@ import './App.css'
 import BtnLikeOrDislike from './components/BtnLikeOrDislike'
 import BtnForColors from './components/BtnForColors'
 import Counter from './components/Counter'
+import Chalange from './components/Chalange'
+import ChallengeThree from './components/ChallengeThree'
 
 function App() {
 
@@ -13,6 +15,8 @@ function App() {
       <BtnLikeOrDislike />
       <BtnForColors />
       <Counter />
+      <Chalange />
+      <ChallengeThree />
     </div>
     </>
   )

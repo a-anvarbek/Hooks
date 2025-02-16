@@ -35,4 +35,13 @@
   align-items: center;
   font-size: 1.3em;
   width: 650px;
+  margin: auto;
+}
+
+input{
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin: 50px 20px;
 }
